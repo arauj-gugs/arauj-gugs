@@ -13,14 +13,14 @@ I am currently working on both curricular and extra-curricular projects, which a
 ## Projects
 
 ### Featured
-- [Skinner Box](https://github.com/Gustavo-Vieira-Unasp/skinnerbox) - Open-source tool for experimental psychology studies and behavior experiments.
-- [Ptable Quiz](https://github.com/Gustavo-Vieira-Unasp/ptable-quizz) - Interactive web quiz to learn the periodic table through practice.
-- [Integrative Project - 5th Semester](https://github.com/Gustavo-Vieira-Unasp/Projeto-Integrador) - Academic full-stack milestone from the 5th semester.
+- [Skinner Box](https://github.com/arauj-gugs/skinnerbox) - Open-source tool for experimental psychology studies and behavior experiments.
+- [Ptable Quiz](https://github.com/arauj-gugs/ptable-quizz) - Interactive web quiz to learn the periodic table through practice.
+- [Integrative Project - 5th Semester](https://github.com/arauj-gugs/Projeto-Integrador) - Academic full-stack milestone from the 5th semester.
 
 ### Other
 - [Project Manna](https://github.com/Vectron7/Project-Manna) - Team-built collaborative software project.
-- [Data Structure I](https://github.com/jeni101/Projeto-Baba) & [II](https://github.com/Gustavo-Vieira-Unasp/EstruturasDados2025.2) - Coursework focused on algorithms and data organization (I & II).
-- [Pong Copy](https://github.com/Gustavo-Vieira-Unasp/pong) - Classic Pong clone built to practice game logic and programming fundamentals.
+- [Data Structure I](https://github.com/jeni101/Projeto-Baba) & [II](https://github.com/arauj-gugs/EstruturasDados2025.2) - Coursework focused on algorithms and data organization (I & II).
+- [Pong Copy](https://github.com/arauj-gugs/pong) - Classic Pong clone built to practice game logic and programming fundamentals.
 
 ## Tech Stack
 
